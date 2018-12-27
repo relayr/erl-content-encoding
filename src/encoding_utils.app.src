@@ -1,0 +1,9 @@
+{application,encoding_utils,
+             [{description,"Encoding and decoding utilities"},
+              {vsn,"1.0.0"},
+              {licenses,["MIT"]},
+              {links,[{"GitHub","https://github.com/relayr/erl-encoding-utils"}]},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {modules,[content_encoding]},
+              {env,[]}]}.
